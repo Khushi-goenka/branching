@@ -1,0 +1,2 @@
+postname = name of post
+post number = 1
